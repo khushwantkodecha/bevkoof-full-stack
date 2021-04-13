@@ -1,0 +1,14 @@
+.topnavbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #eee;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.topnavbar > div > span {
+  color: rgba(0, 0, 0, 0.8);
+  margin-right: 17px;
+  font-size: 12px;
+  cursor: pointer;
+}
